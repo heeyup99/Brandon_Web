@@ -19,7 +19,7 @@ h2{font-family: monospace;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: auto;
 }
 
 .image2 {
@@ -29,3 +29,27 @@ h2{font-family: monospace;
   width: 50%;
 }
 
+p1{
+    display: block;
+    margin-left: auto;
+    font-weight: bold;
+    font-size: 24px;   
+}
+
+p2{
+    display: block;
+    margin-left: auto;
+    font-weight: bold;
+    font-size: 24px;   
+}
+p3{
+    display: block;
+    margin-left: auto;
+    font-weight: bold;
+    font-size: 20px;   
+}
+iframe.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
